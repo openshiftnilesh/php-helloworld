@@ -5,7 +5,7 @@
 <h1>My first PHP page by Nilesh</h1>
 
 <?php
-echo " First S2I Hello World ---Welcome To BJP Mr.Ajit!";
+echo "First S2I Hello World ---Nowdyas I daily woke up with Sanjay Raut's Press Conference";
 ?>
 
 </body>
