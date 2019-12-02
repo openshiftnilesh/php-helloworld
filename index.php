@@ -5,7 +5,7 @@
 <h1>My first PHP page by Nilesh/Sudarshan</h1>
 
 <?php
-echo "First S2I Hello World --";
+echo "First S2I Hello World OpenShift";
 ?>
 
 </body>
