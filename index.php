@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My NEW PHP page by Nilesh/Sudarshan Dec</h1>
+<h1>My latest PHP page by Nilesh/Sudarshan Dec</h1>
 
 <?php
-echo "NEW S2I Hello World OpenShift"
+echo "latest S2I Hello World OpenShift"
 ?>
 
 </body>
