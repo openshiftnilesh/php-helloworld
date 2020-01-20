@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My latest 2 PHP page by Nilesh/Sudarshan Jan2020</h1>
+<h1>My latest 2 PHP page by Nilesh/Sudarshan/Deepak Jan2020</h1>
 
 <?php
 echo "latest S2I Hello World OpenShift"
